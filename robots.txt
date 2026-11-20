@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://komatsu9233-alt.github.io/nikuya92/sitemap.xml
